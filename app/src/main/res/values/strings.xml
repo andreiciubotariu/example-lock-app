@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lock</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lock">Lock</string>
+    <string name="lock_app">Lock</string>
+    <string name="lock_device_admin">Lock - Device Admin</string>
+    <string name="title_activity_lock_device">Lock Device</string>
+    <string name="enable_admin">ENABLE ADMIN</string>
+    <string name="transition_button_name">button</string>
+    <string name="device_admin_suggestion_message">Device admin privilege required</string>
+    <string name="about">About</string>
+    <string name="a_c">Written by Andrei Ciubotariu</string>
+    <string name="lock_now">LOCK NOW</string>
+    <string name="status_bar_lock">Status bar lock</string>
+    <string name="disable_admin">DISABLE ADMIN</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/modify_admin"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/btn_default_material"
+        android:text="@string/enable_admin"
+        android:textColor="@android:color/white"
+        android:theme="@style/GreenButtonTheme"
+        android:transitionName="@string/transition_button_name" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/modify_admin"
+        android:gravity="center_horizontal"
+        android:text="@string/device_admin_suggestion_message"
+        android:textSize="25sp" />
+
+</RelativeLayout>

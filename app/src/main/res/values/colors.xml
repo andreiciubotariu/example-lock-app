@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#212121</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent">#424242</color>
+    <color name="pressed_green">#ff53712b</color>
+    <color name="focused_green">#ff709838</color>
+    <color name="normal_green">#ff8bc34a</color>
+    <color name="important_red">#ffee0000</color>
+    <color name="focused_red">#ffb50000</color>
+    <color name="pressed_red">#ff8b0000</color>
+</resources>
