@@ -7,11 +7,7 @@ android {
     defaultConfig {
         applicationId "com.lockapp"
         minSdkVersion 8
-        targetSdkVersion 21
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
-        }
+        targetSdkVersion 22
     }
 
     buildTypes {
@@ -23,6 +19,6 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:21.0.+'
-    compile 'com.android.support:appcompat-v7:21.0.+'
+    compile 'com.android.support:support-v4:22.1.0'
+    compile 'com.android.support:appcompat-v7:22.1.0'
 }
